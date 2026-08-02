@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0529-minesweeper](https://github.com/krystal-codes/leetcode/tree/master/0529-minesweeper) |
+| [0877-stone-game](https://github.com/krystal-codes/leetcode/tree/master/0877-stone-game) |
 | [0934-shortest-bridge](https://github.com/krystal-codes/leetcode/tree/master/0934-shortest-bridge) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/krystal-codes/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Breadth-First Search
@@ -24,4 +25,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0529-minesweeper](https://github.com/krystal-codes/leetcode/tree/master/0529-minesweeper) |
 | [0934-shortest-bridge](https://github.com/krystal-codes/leetcode/tree/master/0934-shortest-bridge) |
+## Math
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/krystal-codes/leetcode/tree/master/0877-stone-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/krystal-codes/leetcode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/krystal-codes/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
