@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/krystal-codes/leetcode/tree/master/0877-stone-game) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/krystal-codes/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Game Theory
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/krystal-codes/leetcode/tree/master/0743-network-delay-time) |
 | [1514-path-with-maximum-probability](https://github.com/krystal-codes/leetcode/tree/master/1514-path-with-maximum-probability) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/krystal-codes/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -55,4 +57,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/krystal-codes/leetcode/tree/master/0743-network-delay-time) |
 | [1514-path-with-maximum-probability](https://github.com/krystal-codes/leetcode/tree/master/1514-path-with-maximum-probability) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/krystal-codes/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Topological Sort
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/krystal-codes/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/krystal-codes/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
