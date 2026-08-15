@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-shortest-bridge](https://github.com/krystal-codes/leetcode/tree/master/0934-shortest-bridge) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/krystal-codes/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1514-path-with-maximum-probability](https://github.com/krystal-codes/leetcode/tree/master/1514-path-with-maximum-probability) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/krystal-codes/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/krystal-codes/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/krystal-codes/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
