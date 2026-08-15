@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/krystal-codes/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0529-minesweeper](https://github.com/krystal-codes/leetcode/tree/master/0529-minesweeper) |
 | [0743-network-delay-time](https://github.com/krystal-codes/leetcode/tree/master/0743-network-delay-time) |
 | [0934-shortest-bridge](https://github.com/krystal-codes/leetcode/tree/master/0934-shortest-bridge) |
@@ -71,4 +72,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/krystal-codes/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/krystal-codes/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/krystal-codes/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/krystal-codes/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
