@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-shortest-bridge](https://github.com/krystal-codes/leetcode/tree/master/0934-shortest-bridge) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/krystal-codes/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1514-path-with-maximum-probability](https://github.com/krystal-codes/leetcode/tree/master/1514-path-with-maximum-probability) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/krystal-codes/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/krystal-codes/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Breadth-First Search
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/krystal-codes/leetcode/tree/master/0743-network-delay-time) |
 | [0934-shortest-bridge](https://github.com/krystal-codes/leetcode/tree/master/0934-shortest-bridge) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/krystal-codes/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/krystal-codes/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/krystal-codes/leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Matrix
 |  |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0529-minesweeper](https://github.com/krystal-codes/leetcode/tree/master/0529-minesweeper) |
 | [0934-shortest-bridge](https://github.com/krystal-codes/leetcode/tree/master/0934-shortest-bridge) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/krystal-codes/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/krystal-codes/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Depth-First Search
 |  |
 | ------- |
